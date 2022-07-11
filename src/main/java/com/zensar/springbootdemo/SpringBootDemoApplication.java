@@ -32,8 +32,8 @@ public class SpringBootDemoApplication extends SpringBootServletInitializer{
 		return new ModelMapper();
 	}
 	
-	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
-		return super.configure(builder);
-	}
+//	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
+//		return super.configure(builder);
+//	}
 
 }
